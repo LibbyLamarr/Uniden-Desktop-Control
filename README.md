@@ -1,3 +1,10 @@
+
+[![GitHub Release](https://img.shields.io/github/v/release/LibbyLamarr/Uniden-Desktop-Control?color=orange&label=release)](https://github.com/LibbyLamarr/Uniden-Desktop-Control/releases/latest)
+![Platforms](https://img.shields.io/badge/platforms-Windows%20%7C%20Android-blue)
+![Status](https://img.shields.io/badge/status-In%20Development-yellow)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support%20UDC-FFDD00?logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/libbylamarr)
+
+
 # 📡 Uniden Desktop Control (UDC)
 
 **A virtual scanner console, channel memory manager and audio logging companion for Uniden BC125-series scanners.**
