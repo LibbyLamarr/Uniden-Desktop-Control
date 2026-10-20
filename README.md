@@ -99,7 +99,6 @@ Note: Confirmed working with UBC125XLTC scanner only.
 
 - **Windows:** Self-contained x64 executable with compact and full-view modes.
 - **Android:** USB-OTG serial communication (`CdcAcmSerialDriver`), landscape-optimised responsive layout and automatic scaling for phones and tablets.
-- **Browser:** Client-side Web Serial API support in compatible browsers, without a separate browser-side driver installation.
 
 ## 🔌 Getting started
 
